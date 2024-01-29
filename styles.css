@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+html {
+    background-color:4F4557;
+}
+#wot-h1-title {
+    margin-left: 5%;
+    font-size: 30px;
+    color: F4EEE0;
+    font-weight: bold;
+}
+
+#achievments{
+    font-size: larger;
+}
+
+#main-div {
+    height:fit-content;
+    padding-bottom: 10px;
+    width:500px;
+    background-color:393646;
+    border-radius: 10px;
+}
+
+#navbar-div {
+    background-color:393646;
+    margin: auto;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.grotesk {
+    font-family: "Space Grotesk";
+}
+.center-screen {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.navbar-unit {
+    padding: 5px;
+}
+
+a:link {
+    color:#576CBC;
+}
+
+a:visited {
+    color:#576CBC;
+}
+
+a:hover {
+    color:#A5D7E8;
+}
+
+
+.whitemono {
+    font-family: monospace;
+    color:aliceblue;
+}
+
+.para {
+    margin-left:5%;
+    margin-right:5%;
+    font-size: larger;
+}
